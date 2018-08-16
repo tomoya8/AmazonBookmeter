@@ -66,3 +66,8 @@ div.meter_review_button:active span {
     float: left;
     margin: 0 5px 0 0;
 }
+
+div.netabare {
+    display: none;
+    color: lightgrey;
+}
